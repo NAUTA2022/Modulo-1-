@@ -19,7 +19,7 @@ function DecimalABinario(num) {
   return result;
   // tu codigo aca
 }
-
+ 
 // No se pueden usar: 
 // parseInt
 // toString
